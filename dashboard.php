@@ -49,7 +49,7 @@
                 <img src="mechanical_operation_410285.png" alt="Operation" style="width:20%">
               </a>
             </div>
-              <div class="thumbnail">
+            <!--  <div class="thumbnail">
               <a href="akaun/login.php">
                 <img src="download.png" alt="Accounts" style="width:20%">
               </a>
@@ -64,7 +64,7 @@
                 <img src="ukm.jpg" alt="Management" style="width:20%">
               </a>
             </div>
-            </div>
+            </div> -->
         
             </div>
         </body>
