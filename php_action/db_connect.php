@@ -1,8 +1,8 @@
 <?php 	
 
-$localhost = "localhost";
-$username = "root";
-$password = "";
+$localhost = "fypbns.mysql.database.azure.com";
+$username = "fyp_admin";
+$password = "Amirhasan@990630";
 $dbname = "persada";
 
 // db connection
