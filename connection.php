@@ -1,9 +1,9 @@
 <?php
 // Fetch environment variables
-$db_host = getenv('fypbns.mysql.database.azure.com');
-$db_username = getenv('fyp_admin');
-$db_password = getenv('Amirhasan@990630');
-$db_name = getenv('persada');
+$db_host = getenv('DB_HOST');
+$db_username = getenv('DB_USER');
+$db_password = getenv('DB_PASSWORD');
+$db_name = getenv('DB_NAME');
 
 // Establish the connection
 $connection = new mysqli($db_host, $db_username, $db_password, $db_name);
